@@ -1,0 +1,36 @@
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100vh;
+    
+    
+}
+.cal{
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border: 5px sandybrown solid;
+
+}
+.cal form button{
+    border: 0px;
+    outline: 0;
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    box-shadow: 7px 5px 18px #287b7b;
+    border: 1px white solid;
+
+}
+
+
+.cal form input{
+    width:100%;
+    height: 40px;
+}
